@@ -1,0 +1,82 @@
+#####  This is a standard INCAR in VASP for sp opt calcualtion made by Linus.Denghui.Xing   #####
+ 
+ SYSTEM = VASP_SYSTEM
+
+#numbers of cores per compute node
+TPAR = 1
+KPAR = 2
+NPAR = 2
+
+
+########## General Parameters #########
+ISTART=0  #0=no WAVECAR exists, 1 or 2 to restart WAVECAR
+ICHARG = 2   #2 when IATART is 0; 11=calcula. DOS
+PREC = Normal    # or Accurate(for HSE06). Gvectors twice aslargeas vec in BS are in FFT
+LREAL = Auto  #projection in real space,fully opt of pro operators
+# ISYM = 0   #no symmetry
+# LDIPOL = .TRUE.   #Dipole correction
+# IDIPOL = 3 #monopole/dipole and quadrupole corrections.3=slab model; 4=isolated molecules
+########## END General Parameters #########
+
+###$$$$$  Motions   $$$$#####
+
+######## Cell/Geo.Opt(Ionic Relaxation)  ###########
+IBRION = -1  #opt 2=CG,almost ok; 1=quasi-Newton; 5=freq; 0=MD ;
+ISIF = 2   # 2= ionic relaxation-Geo.Opt; 3=cell relaxation- Cell.Opt
+NSW = 0     #maxcycle of opt
+POTIM = 0.5   # timestep of ionic movement (0.2 when not converge, maybe)
+EDIFFG = -0.02   # EDIFF*10, stop condition of ionic relax,-0.02 or -0.05. If EDIFFG <0 : relaxation stops if all forces are smaller than | EDIFFG |
+#$reached required accuracy - stopping structural energy minimisation is the sign in OUTCAR meaning convergence
+###$$$$ END Motions  $$$$####
+
+
+######### SCF #############
+ENCUT = 600.0   #plane waves with Ekin less than E are in basis set
+ISPIN = 1      #RKS(1) or UKS(2)
+#NUPDOWN = 0   # Multiplicity: difference between up and down spin
+#MAGMOM = 33*0.0 4*2.0 4*-2.0 4*2.0 4*-2.0
+ALGO = Fast   # This is algorithm of convergence. VeryFast Normal Fast Conjugate Damped(not converge or for HSE06).
+NELM = 3   #maxcycle of SCF
+#NELMIN = 6   #minimum number of SCF
+#NELMDL = -20   #nonselfconsistent step at begin,keep hamiltonian
+EDIFF = 1E-05   #error in energy,-05 is very accurate, -07 is when TS and Freq
+ISMEAR = 0   #method of partial occ. 0 when metal conducter,-5 when semi- or non-conducter,1 when gamma point 1 1 1
+SIGMA  = 0.2    #width of the smearing in eV, 0.1 to 0.2
+KSPACING  = 0.09
+
+########## DFT Fucntional #############
+GGA = PE   #PBE, 91 is PW91, empty is LDA
+
+
+######  PBE+D3(BJ)    #######
+IVDW = 12
+VDW_S6 = 1.000
+VDW_S8 = 0.7875
+VDW_A1 = 0.4289
+VDW_A2 = 4.4407
+
+######## Plus U  ########
+LDAU = .F.   
+LDAUTYPE    = 2
+LDAUU = 8.0 0.0 0.0 0.0 0.0 
+LDAUJ = 0.0 0.0 0.0 0.0 0.0
+LDAUL = 2 -1 -1 -1 -1
+
+
+######## Other Properties  ############
+NWRITE =2  #This flag determines how much will be written to the file OUTCAR.0/1=MD;2=short run; 3=sth. wrong; 4=debugging 
+##NFREE=2  #determines how many displacements are used for each direction and ion.2=central difference
+LWAVE  = .FALSE.   #whether output WAVECAR
+LCHARG = .FALSE.    #whether output CHGCAR and CHG
+LVTOT  = .FALSE.   #whether output LOCPOT
+LELF   = .FALSE.   #whether output ELFCAR
+
+#ADDGRID = .TRUE. #addgrid for augmentation charge,reduce force noise
+
+
+
+
+LCOMPACT_FFT = T
+L2DCYCLIC    = T
+LPLANE       = F
+

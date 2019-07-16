@@ -1,0 +1,2215 @@
+ BatchMin V6.5.0  dynamic             Starting Time 12-Sep-1998 01:19:33
+
+ Input filename:  aladi-DRIV.dat
+ Output filename: aladi-DRIV.out
+ Atom-type file: /still5/usr/people/mmod/run/mmdat/atom.typ
+ Force field: /still5/usr/people/mmod/run/mmdat/amber.fld
+ Read    12 atoms. Structure name, if any, appears on next line: 
+  Alanine dipeptide (alpha R conf)
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -141.608 (  0.011) kJ/mol
+  Ang 1:-180.0 Ang 2:-180.0 E= -141.61 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -130.892 (  0.026) kJ/mol
+  Ang 1:-150.0 Ang 2:-180.0 E= -130.89 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -117.203 (  0.015) kJ/mol
+  Ang 1:-120.0 Ang 2:-180.0 E= -117.20 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -114.965 (  0.004) kJ/mol
+  Ang 1: -90.0 Ang 2:-180.0 E= -114.96 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -115.763 (  0.007) kJ/mol
+  Ang 1: -60.0 Ang 2:-180.0 E= -115.76 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =   -93.142 (  0.033) kJ/mol
+  Ang 1: -30.0 Ang 2:-180.0 E=  -93.14 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -56.545 (  0.008) kJ/mol
+  Ang 1:   0.0 Ang 2:-180.0 E=  -56.54 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -96.545 (  0.008) kJ/mol
+  Ang 1:  30.0 Ang 2:-180.0 E=  -96.54 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -126.106 (  0.004) kJ/mol
+  Ang 1:  60.0 Ang 2:-180.0 E= -126.11 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -136.417 (  0.050) kJ/mol
+  Ang 1:  90.0 Ang 2:-180.0 E= -136.42 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -141.036 (  0.032) kJ/mol
+  Ang 1: 120.0 Ang 2:-180.0 E= -141.04 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -144.292 (  0.033) kJ/mol
+  Ang 1: 150.0 Ang 2:-180.0 E= -144.29 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -141.608 (  0.042) kJ/mol
+  Ang 1: 180.0 Ang 2:-180.0 E= -141.61 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -142.591 (  0.014) kJ/mol
+  Ang 1:-180.0 Ang 2:-150.0 E= -142.59 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -130.107 (  0.050) kJ/mol
+  Ang 1:-150.0 Ang 2:-150.0 E= -130.11 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -115.344 (  0.007) kJ/mol
+  Ang 1:-120.0 Ang 2:-150.0 E= -115.34 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -112.261 (  0.017) kJ/mol
+  Ang 1: -90.0 Ang 2:-150.0 E= -112.26 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -107.734 (  0.006) kJ/mol
+  Ang 1: -60.0 Ang 2:-150.0 E= -107.73 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -80.141 (  0.013) kJ/mol
+  Ang 1: -30.0 Ang 2:-150.0 E=  -80.14 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -84.538 (  0.041) kJ/mol
+  Ang 1:   0.0 Ang 2:-150.0 E=  -84.54 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -117.294 (  0.029) kJ/mol
+  Ang 1:  30.0 Ang 2:-150.0 E= -117.29 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -137.474 (  0.020) kJ/mol
+  Ang 1:  60.0 Ang 2:-150.0 E= -137.47 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -143.496 (  0.034) kJ/mol
+  Ang 1:  90.0 Ang 2:-150.0 E= -143.50 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -146.285 (  0.025) kJ/mol
+  Ang 1: 120.0 Ang 2:-150.0 E= -146.28 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -147.205 (  0.043) kJ/mol
+  Ang 1: 150.0 Ang 2:-150.0 E= -147.20 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -142.591 (  0.028) kJ/mol
+  Ang 1: 180.0 Ang 2:-150.0 E= -142.59 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -137.071 (  0.016) kJ/mol
+  Ang 1:-180.0 Ang 2:-120.0 E= -137.07 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -124.159 (  0.014) kJ/mol
+  Ang 1:-150.0 Ang 2:-120.0 E= -124.16 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -110.583 (  0.022) kJ/mol
+  Ang 1:-120.0 Ang 2:-120.0 E= -110.58 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -107.725 (  0.036) kJ/mol
+  Ang 1: -90.0 Ang 2:-120.0 E= -107.73 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -102.428 (  0.017) kJ/mol
+  Ang 1: -60.0 Ang 2:-120.0 E= -102.43 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -87.167 (  0.072) kJ/mol
+  Ang 1: -30.0 Ang 2:-120.0 E=  -87.17 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -102.715 (  0.026) kJ/mol
+  Ang 1:   0.0 Ang 2:-120.0 E= -102.71 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -125.691 (  0.011) kJ/mol
+  Ang 1:  30.0 Ang 2:-120.0 E= -125.69 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -141.565 (  0.012) kJ/mol
+  Ang 1:  60.0 Ang 2:-120.0 E= -141.56 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -145.719 (  0.015) kJ/mol
+  Ang 1:  90.0 Ang 2:-120.0 E= -145.72 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -145.192 (  0.028) kJ/mol
+  Ang 1: 120.0 Ang 2:-120.0 E= -145.19 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -143.196 (  0.023) kJ/mol
+  Ang 1: 150.0 Ang 2:-120.0 E= -143.20 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -137.071 (  0.027) kJ/mol
+  Ang 1: 180.0 Ang 2:-120.0 E= -137.07 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -129.162 (  0.021) kJ/mol
+  Ang 1:-180.0 Ang 2: -90.0 E= -129.16 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -116.937 (  0.012) kJ/mol
+  Ang 1:-150.0 Ang 2: -90.0 E= -116.94 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -104.821 (  0.029) kJ/mol
+  Ang 1:-120.0 Ang 2: -90.0 E= -104.82 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -103.808 (  0.025) kJ/mol
+  Ang 1: -90.0 Ang 2: -90.0 E= -103.81 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -104.598 (  0.022) kJ/mol
+  Ang 1: -60.0 Ang 2: -90.0 E= -104.60 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -101.233 (  0.025) kJ/mol
+  Ang 1: -30.0 Ang 2: -90.0 E= -101.23 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -108.423 (  0.006) kJ/mol
+  Ang 1:   0.0 Ang 2: -90.0 E= -108.42 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -122.857 (  0.014) kJ/mol
+  Ang 1:  30.0 Ang 2: -90.0 E= -122.86 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -142.165 (  0.040) kJ/mol
+  Ang 1:  60.0 Ang 2: -90.0 E= -142.16 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -146.518 (  0.010) kJ/mol
+  Ang 1:  90.0 Ang 2: -90.0 E= -146.52 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -140.302 (  0.007) kJ/mol
+  Ang 1: 120.0 Ang 2: -90.0 E= -140.30 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -135.671 (  0.010) kJ/mol
+  Ang 1: 150.0 Ang 2: -90.0 E= -135.67 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -129.162 (  0.034) kJ/mol
+  Ang 1: 180.0 Ang 2: -90.0 E= -129.16 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -125.517 (  0.013) kJ/mol
+  Ang 1:-180.0 Ang 2: -60.0 E= -125.52 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -113.127 (  0.021) kJ/mol
+  Ang 1:-150.0 Ang 2: -60.0 E= -113.13 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -100.775 (  0.040) kJ/mol
+  Ang 1:-120.0 Ang 2: -60.0 E= -100.78 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -104.205 (  0.028) kJ/mol
+  Ang 1: -90.0 Ang 2: -60.0 E= -104.20 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -111.951 (  0.007) kJ/mol
+  Ang 1: -60.0 Ang 2: -60.0 E= -111.95 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -109.742 (  0.019) kJ/mol
+  Ang 1: -30.0 Ang 2: -60.0 E= -109.74 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -103.459 (  0.009) kJ/mol
+  Ang 1:   0.0 Ang 2: -60.0 E= -103.46 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -114.337 (  0.024) kJ/mol
+  Ang 1:  30.0 Ang 2: -60.0 E= -114.34 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -138.468 (  0.030) kJ/mol
+  Ang 1:  60.0 Ang 2: -60.0 E= -138.47 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -145.493 (  0.032) kJ/mol
+  Ang 1:  90.0 Ang 2: -60.0 E= -145.49 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -136.286 (  0.011) kJ/mol
+  Ang 1: 120.0 Ang 2: -60.0 E= -136.29 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -131.414 (  0.020) kJ/mol
+  Ang 1: 150.0 Ang 2: -60.0 E= -131.41 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -125.517 (  0.046) kJ/mol
+  Ang 1: 180.0 Ang 2: -60.0 E= -125.52 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -124.759 (  0.034) kJ/mol
+  Ang 1:-180.0 Ang 2: -30.0 E= -124.76 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -109.175 (  0.029) kJ/mol
+  Ang 1:-150.0 Ang 2: -30.0 E= -109.18 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -101.224 (  0.031) kJ/mol
+  Ang 1:-120.0 Ang 2: -30.0 E= -101.22 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -111.155 (  0.016) kJ/mol
+  Ang 1: -90.0 Ang 2: -30.0 E= -111.16 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -120.020 (  0.015) kJ/mol
+  Ang 1: -60.0 Ang 2: -30.0 E= -120.02 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -109.121 (  0.016) kJ/mol
+  Ang 1: -30.0 Ang 2: -30.0 E= -109.12 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -95.070 (  0.018) kJ/mol
+  Ang 1:   0.0 Ang 2: -30.0 E=  -95.07 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -106.097 (  0.016) kJ/mol
+  Ang 1:  30.0 Ang 2: -30.0 E= -106.10 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -130.894 (  0.046) kJ/mol
+  Ang 1:  60.0 Ang 2: -30.0 E= -130.89 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -137.131 (  0.037) kJ/mol
+  Ang 1:  90.0 Ang 2: -30.0 E= -137.13 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -134.201 (  0.017) kJ/mol
+  Ang 1: 120.0 Ang 2: -30.0 E= -134.20 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 40  out of  100
+ Conf    1 E =  -131.242 (  0.036) kJ/mol
+  Ang 1: 150.0 Ang 2: -30.0 E= -131.24 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -124.759 (  0.049) kJ/mol
+  Ang 1: 180.0 Ang 2: -30.0 E= -124.76 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -118.328 (  0.012) kJ/mol
+  Ang 1:-180.0 Ang 2:   0.0 E= -118.33 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -111.403 (  0.018) kJ/mol
+  Ang 1:-150.0 Ang 2:   0.0 E= -111.40 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -109.472 (  0.022) kJ/mol
+  Ang 1:-120.0 Ang 2:   0.0 E= -109.47 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -118.044 (  0.017) kJ/mol
+  Ang 1: -90.0 Ang 2:   0.0 E= -118.04 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -121.374 (  0.005) kJ/mol
+  Ang 1: -60.0 Ang 2:   0.0 E= -121.37 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -106.441 (  0.044) kJ/mol
+  Ang 1: -30.0 Ang 2:   0.0 E= -106.44 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -91.217 (  0.025) kJ/mol
+  Ang 1:   0.0 Ang 2:   0.0 E=  -91.22 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -107.905 (  0.028) kJ/mol
+  Ang 1:  30.0 Ang 2:   0.0 E= -107.91 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -126.918 (  0.041) kJ/mol
+  Ang 1:  60.0 Ang 2:   0.0 E= -126.92 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -133.631 (  0.023) kJ/mol
+  Ang 1:  90.0 Ang 2:   0.0 E= -133.63 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -131.696 (  0.031) kJ/mol
+  Ang 1: 120.0 Ang 2:   0.0 E= -131.70 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -127.365 (  0.020) kJ/mol
+  Ang 1: 150.0 Ang 2:   0.0 E= -127.36 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -118.328 (  0.010) kJ/mol
+  Ang 1: 180.0 Ang 2:   0.0 E= -118.33 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -124.492 (  0.004) kJ/mol
+  Ang 1:-180.0 Ang 2:  30.0 E= -124.49 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -117.146 (  0.022) kJ/mol
+  Ang 1:-150.0 Ang 2:  30.0 E= -117.15 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -113.509 (  0.034) kJ/mol
+  Ang 1:-120.0 Ang 2:  30.0 E= -113.51 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -124.449 (  0.011) kJ/mol
+  Ang 1: -90.0 Ang 2:  30.0 E= -124.45 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -127.926 (  0.007) kJ/mol
+  Ang 1: -60.0 Ang 2:  30.0 E= -127.93 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -108.300 (  0.018) kJ/mol
+  Ang 1: -30.0 Ang 2:  30.0 E= -108.30 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -98.506 (  0.065) kJ/mol
+  Ang 1:   0.0 Ang 2:  30.0 E=  -98.51 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -113.010 (  0.022) kJ/mol
+  Ang 1:  30.0 Ang 2:  30.0 E= -113.01 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -127.153 (  0.029) kJ/mol
+  Ang 1:  60.0 Ang 2:  30.0 E= -127.15 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -128.002 (  0.038) kJ/mol
+  Ang 1:  90.0 Ang 2:  30.0 E= -128.00 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -125.276 (  0.046) kJ/mol
+  Ang 1: 120.0 Ang 2:  30.0 E= -125.28 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -124.493 (  0.047) kJ/mol
+  Ang 1: 150.0 Ang 2:  30.0 E= -124.49 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -124.492 (  0.027) kJ/mol
+  Ang 1: 180.0 Ang 2:  30.0 E= -124.49 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -122.902 (  0.035) kJ/mol
+  Ang 1:-180.0 Ang 2:  60.0 E= -122.90 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -114.894 (  0.008) kJ/mol
+  Ang 1:-150.0 Ang 2:  60.0 E= -114.89 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -112.780 (  0.028) kJ/mol
+  Ang 1:-120.0 Ang 2:  60.0 E= -112.78 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -128.250 (  0.020) kJ/mol
+  Ang 1: -90.0 Ang 2:  60.0 E= -128.25 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -132.039 (  0.020) kJ/mol
+  Ang 1: -60.0 Ang 2:  60.0 E= -132.04 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -113.606 (  0.015) kJ/mol
+  Ang 1: -30.0 Ang 2:  60.0 E= -113.61 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -103.701 (  0.036) kJ/mol
+  Ang 1:   0.0 Ang 2:  60.0 E= -103.70 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -111.033 (  0.006) kJ/mol
+  Ang 1:  30.0 Ang 2:  60.0 E= -111.03 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -116.696 (  0.037) kJ/mol
+  Ang 1:  60.0 Ang 2:  60.0 E= -116.70 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -119.042 (  0.020) kJ/mol
+  Ang 1:  90.0 Ang 2:  60.0 E= -119.04 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -121.357 (  0.014) kJ/mol
+  Ang 1: 120.0 Ang 2:  60.0 E= -121.36 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -124.466 (  0.023) kJ/mol
+  Ang 1: 150.0 Ang 2:  60.0 E= -124.47 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -122.902 (  0.033) kJ/mol
+  Ang 1: 180.0 Ang 2:  60.0 E= -122.90 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -118.648 (  0.037) kJ/mol
+  Ang 1:-180.0 Ang 2:  90.0 E= -118.65 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -111.346 (  0.012) kJ/mol
+  Ang 1:-150.0 Ang 2:  90.0 E= -111.35 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -108.849 (  0.010) kJ/mol
+  Ang 1:-120.0 Ang 2:  90.0 E= -108.85 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -119.609 (  0.021) kJ/mol
+  Ang 1: -90.0 Ang 2:  90.0 E= -119.61 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -126.884 (  0.042) kJ/mol
+  Ang 1: -60.0 Ang 2:  90.0 E= -126.88 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -113.319 (  0.014) kJ/mol
+  Ang 1: -30.0 Ang 2:  90.0 E= -113.32 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -100.714 (  0.011) kJ/mol
+  Ang 1:   0.0 Ang 2:  90.0 E= -100.71 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =   -95.465 (  0.029) kJ/mol
+  Ang 1:  30.0 Ang 2:  90.0 E=  -95.47 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -102.096 (  0.036) kJ/mol
+  Ang 1:  60.0 Ang 2:  90.0 E= -102.10 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =  -112.077 (  0.011) kJ/mol
+  Ang 1:  90.0 Ang 2:  90.0 E= -112.08 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -117.507 (  0.036) kJ/mol
+  Ang 1: 120.0 Ang 2:  90.0 E= -117.51 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -120.593 (  0.018) kJ/mol
+  Ang 1: 150.0 Ang 2:  90.0 E= -120.59 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -118.648 (  0.020) kJ/mol
+  Ang 1: 180.0 Ang 2:  90.0 E= -118.65 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -121.928 (  0.030) kJ/mol
+  Ang 1:-180.0 Ang 2: 120.0 E= -121.93 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -114.606 (  0.014) kJ/mol
+  Ang 1:-150.0 Ang 2: 120.0 E= -114.61 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -108.832 (  0.024) kJ/mol
+  Ang 1:-120.0 Ang 2: 120.0 E= -108.83 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -113.444 (  0.029) kJ/mol
+  Ang 1: -90.0 Ang 2: 120.0 E= -113.44 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -120.330 (  0.014) kJ/mol
+  Ang 1: -60.0 Ang 2: 120.0 E= -120.33 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -110.228 (  0.030) kJ/mol
+  Ang 1: -30.0 Ang 2: 120.0 E= -110.23 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =   -89.423 (  0.009) kJ/mol
+  Ang 1:   0.0 Ang 2: 120.0 E=  -89.42 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -73.594 (  0.112) kJ/mol
+  Ang 1:  30.0 Ang 2: 120.0 E=  -73.59 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -95.147 (  0.021) kJ/mol
+  Ang 1:  60.0 Ang 2: 120.0 E=  -95.15 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -113.419 (  0.009) kJ/mol
+  Ang 1:  90.0 Ang 2: 120.0 E= -113.42 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -119.855 (  0.026) kJ/mol
+  Ang 1: 120.0 Ang 2: 120.0 E= -119.86 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -123.412 (  0.017) kJ/mol
+  Ang 1: 150.0 Ang 2: 120.0 E= -123.41 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -121.928 (  0.030) kJ/mol
+  Ang 1: 180.0 Ang 2: 120.0 E= -121.93 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -133.181 (  0.027) kJ/mol
+  Ang 1:-180.0 Ang 2: 150.0 E= -133.18 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -124.396 (  0.008) kJ/mol
+  Ang 1:-150.0 Ang 2: 150.0 E= -124.40 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -114.045 (  0.021) kJ/mol
+  Ang 1:-120.0 Ang 2: 150.0 E= -114.04 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -114.220 (  0.025) kJ/mol
+  Ang 1: -90.0 Ang 2: 150.0 E= -114.22 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -119.353 (  0.011) kJ/mol
+  Ang 1: -60.0 Ang 2: 150.0 E= -119.35 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -105.164 (  0.017) kJ/mol
+  Ang 1: -30.0 Ang 2: 150.0 E= -105.16 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =   -73.837 (  0.034) kJ/mol
+  Ang 1:   0.0 Ang 2: 150.0 E=  -73.84 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -70.826 (  0.064) kJ/mol
+  Ang 1:  30.0 Ang 2: 150.0 E=  -70.83 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -107.953 (  0.012) kJ/mol
+  Ang 1:  60.0 Ang 2: 150.0 E= -107.95 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -124.714 (  0.009) kJ/mol
+  Ang 1:  90.0 Ang 2: 150.0 E= -124.71 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -130.472 (  0.018) kJ/mol
+  Ang 1: 120.0 Ang 2: 150.0 E= -130.47 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 40  out of  100
+ Conf    1 E =  -134.612 (  0.048) kJ/mol
+  Ang 1: 150.0 Ang 2: 150.0 E= -134.61 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -133.181 (  0.038) kJ/mol
+  Ang 1: 180.0 Ang 2: 150.0 E= -133.18 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -141.608 (  0.008) kJ/mol
+  Ang 1:-180.0 Ang 2: 180.0 E= -141.61 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -130.892 (  0.027) kJ/mol
+  Ang 1:-150.0 Ang 2: 180.0 E= -130.89 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -117.203 (  0.014) kJ/mol
+  Ang 1:-120.0 Ang 2: 180.0 E= -117.20 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -114.965 (  0.004) kJ/mol
+  Ang 1: -90.0 Ang 2: 180.0 E= -114.96 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -115.763 (  0.007) kJ/mol
+  Ang 1: -60.0 Ang 2: 180.0 E= -115.76 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =   -93.142 (  0.033) kJ/mol
+  Ang 1: -30.0 Ang 2: 180.0 E=  -93.14 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =   -56.545 (  0.044) kJ/mol
+  Ang 1:   0.0 Ang 2: 180.0 E=  -56.54 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 100  out of  100
+ Conf    1 E =   -96.545 (  0.010) kJ/mol
+  Ang 1:  30.0 Ang 2: 180.0 E=  -96.54 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 80  out of  100
+ Conf    1 E =  -126.106 (  0.004) kJ/mol
+  Ang 1:  60.0 Ang 2: 180.0 E= -126.11 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -136.417 (  0.050) kJ/mol
+  Ang 1:  90.0 Ang 2: 180.0 E= -136.42 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -141.036 (  0.032) kJ/mol
+  Ang 1: 120.0 Ang 2: 180.0 E= -141.04 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -144.292 (  0.033) kJ/mol
+  Ang 1: 150.0 Ang 2: 180.0 E= -144.29 kJ/mol
+ Quality of Force Field Parameters in Use:
+   Numbers of high, medium and low quality stretch parameters =   11    0    0
+   Numbers of high, medium and low quality bend parameters    =   15    0    0
+   Numbers of high, medium and low quality torsion parameters =   12    4    0
+   Interactions examined:   42 of         42 total, including unused params.
+      Stretch total=       11   constrained=        0
+         Bend total=       15   constrained=        0        linear=        0
+      Torsion total=       20   constrained=        2  out-of-plane=        4
+    Nonbonded total=       40      H-bonded=        0      ordinary=       40
+ Starting conjugate gradient minimization.
+ Iterations = 60  out of  100
+ Conf    1 E =  -141.608 (  0.042) kJ/mol
+  Ang 1: 180.0 Ang 2: 180.0 E= -141.61 kJ/mol
+The minimum energy over the driven angles is -147.20480 kJ/mol
+ Total number of structures processed = 169
+BatchMin: normal termination                               12-Sep-1998 01:19:49
+13.6u 1.9s 0:15 99% 0+0k 3+1io 0pf+0w
+
+
+
+
+<filename>/home/yinghang/schrodinger2016-1/macromodel-v11.1/test/bmin.simple/aladi-DRIV.log</filename>
+<hostname>mu01.local</hostname>

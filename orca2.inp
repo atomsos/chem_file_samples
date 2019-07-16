@@ -1,0 +1,42 @@
+#
+# [Mn(II)(H2O)6]2+
+# Scalar-relativistic single point calculation employing the ZORA method
+# 
+! UKS BP SV(P) SV/J Direct TightSCF Grid3 NoFinalGrid
+! Split-RI-J SlowConv Uncontract
+# be careful with the numerical integration around manganese for
+# relativistic potentials and uncontracted basis sets with steep
+# s-functions.
+%method SpecialGridAtoms =25
+ SpecialGridIntAcc=7
+ end
+%basis NewGTO 25 "TZVPP" end
+ NewAuxGTO 25 "TZV/J" end
+ end
+ %rel method ZORA
+ ModelPot 1,1,1,1
+ ModelDens rhoZORA
+ PictureChange true
+ end
+
+* xyz 2 6
+mn -0.0012 -0.0002 0.0000
+o -0.3280 1.5023 1.5581
+h 0.3545 2.0232 2.0324
+o -0.1563 1.5660 -1.5222
+h -0.3178 2.5217 -1.3714
+o -2.1595 -0.3443 -0.1250
+h -2.8050 0.1230 -0.6969
+o 0.3287 -1.5023 -1.5578
+h 1.1868 -1.7790 -1.9443
+o 0.1626 -1.5648 1.5229
+h 0.0843 -1.4662 2.4956
+o 2.1569 0.3439 0.1241
+h 2.8011 -0.1169 0.7027
+h -0.0921 1.4654 -2.4958
+h 2.6863 0.9922 -0.3873
+h -1.1837 1.7839 1.9462
+h 0.3218 -2.5209 1.3722
+h -0.3499 -2.0271 -2.0334
+h -2.6880 -0.9991 0.3790
+* 

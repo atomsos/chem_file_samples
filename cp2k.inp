@@ -1,0 +1,82 @@
+&GLOBAL
+   PROJECT cp2k
+   PRINT_LEVEL LOW
+   RUN_TYPE GEO_OPT
+&END GLOBAL
+&MOTION
+   &GEO_OPT
+      MAX_ITER  50
+      OPTIMIZER LBFGS
+      MAX_FORCE 6.0E-4
+      &CG
+         &LINE_SEARCH
+            TYPE 2PNT
+         &END LINE_SEARCH
+      &END CG
+   &END GEO_OPT
+&END MOTION
+&FORCE_EVAL
+   METHOD QuickStep
+   &DFT
+      BASIS_SET_FILE_NAME MOLOPT
+      POTENTIAL_FILE_NAME rr_pot
+      WFN_RESTART_FILE_NAME ./cp2k-RESTART.wfn
+      CHARGE 0
+      &MGRID
+         CUTOFF 280.000000
+      &END MGRID
+      &QS
+         METHOD GPW
+      &END QS
+      &XC
+         &XC_FUNCTIONAL PBE
+         &END XC_FUNCTIONAL
+      &END XC
+      &SCF
+         SCF_GUESS RESTART
+         MAX_SCF 100
+         EPS_SCF 1.0e-5
+         &OT T
+            PRECONDITIONER FULL_ALL
+            MINIMIZER DIIS
+            LINESEARCH 3PNT
+         &END OT
+         &OUTER_SCF ON
+            MAX_SCF 50
+         &END OUTER_SCF
+      &END SCF
+   &END DFT
+   &SUBSYS
+      &KIND H
+         BASIS_SET DZVP-MOLOPT-SR-GTH
+         POTENTIAL GTH-PBE-q1
+      &END KIND
+      &KIND O
+         BASIS_SET DZVP-MOLOPT-SR-GTH
+         POTENTIAL GTH-PBE-q6
+      &END KIND
+      &CELL
+         PERIODIC XYZ
+         ABC 10.000000 10.000000 10.000000
+         ALPHA_BETA_GAMMA 90.000000 90.000000 90.000000
+      &END CELL
+      &COORD
+C          8.54736300         2.21144100        -0.00000000
+H          9.54768000         2.69706100         0.00000000
+H          7.67310400         2.89764900        -0.00000000
+O          8.41698900         1.00038600        -0.00000000
+      &END COORD
+      &PRINT
+         &ATOMIC_COORDINATES
+            &EACH
+               JUST_ENERGY 1
+               GEO_OPT 1
+            &END EACH
+         &END ATOMIC_COORDINATES
+      &END PRINT
+   &END SUBSYS
+   &PRINT
+      &FORCES
+      &END FORCES
+   &END PRINT
+&END FORCE_EVAL

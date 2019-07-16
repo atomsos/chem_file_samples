@@ -18,3 +18,26 @@ In your own project, type
 `git submodule add https://github.com/atomse/chem_file_samples`
 
 to add these files to `chem_file_samples`, then you can test your project.
+
+
+
+## Types
+
+* gaussian/gaussian-out/gaussian-fchk
+* POSCAR/vasp/vasp-xml
+* CP2K/CP2k-out
+* ADF/ADF-out
+* siesta/siesta-out
+* orca/orca-out
+* abinit/abinit-out
+* cif
+* gromacs/gromacs-top
+
+
+store/
+
+* castep
+* msi
+
+
+

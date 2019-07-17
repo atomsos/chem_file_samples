@@ -23,7 +23,7 @@ to add these files to `chem_file_samples`, then you can test your project.
 
 ## Types
 
-* gaussian/gaussian-out/gaussian-fchk
+* gaussian/gaussian-out/gaussian-fchk/gaussian-nbo-out
 * POSCAR/vasp/vasp-xml
 * CP2K/CP2k-out
 * ADF/ADF-out

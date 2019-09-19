@@ -23,6 +23,10 @@ to add these files to `chem_file_samples`, then you can test your project.
 
 ## Types
 
+### `files/`
+
+store all available files, just `os.listdir`(python) could get all
+
 * gaussian/gaussian-out/gaussian-fchk/gaussian-nbo-out
 * POSCAR/vasp/vasp-xml
 * CP2K/CP2k-out
@@ -34,10 +38,16 @@ to add these files to `chem_file_samples`, then you can test your project.
 * gromacs/gromacs-top
 
 
-store/
+### `store/`
+
+store all unavaiable files, but could be used in the future
 
 * castep
 * msi
+
+
+
+
 
 ## TODOS
 

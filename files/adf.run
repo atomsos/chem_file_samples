@@ -1,3 +1,4 @@
+
 #!/bin/bash
 if [ ! -d ${0/\.run/} ]
 then
@@ -5,79 +6,86 @@ then
 fi
 cd ${0/\.run/}
 
-N_MPI=16
 
 
+$ADFBIN/adf -n 4 << EOF 1>>${0/run/out} 2>>${0/run/err}
+! default run with 4 cores
 
-$ADFBIN/adf -n 16 << eor 1>>${0/run/out} 2>>${0/run/err}
 
-TITLE Au
+TITLE Properties=species:S:1:pos:R:3 pbc="F F F";;;;;
+
 
 BECKEGRID
       Quality good
 End
 
-XC
- GGA PBE
+
+! units
+! length angstrom
+! END
+
+ATOMS cartesian
+C    0.000000    1.395248    0.000000
+C    1.208320    0.697624    0.000000
+C    1.208320    -0.697624    0.000000
+C    0.000000    -1.395248    0.000000
+C    -1.208320    -0.697624    0.000000
+C    -1.208320    0.697624    0.000000
+H    0.000000    2.482360    0.000000
+H    2.149787    1.241180    0.000000
+H    2.149787    -1.241180    0.000000
+H    0.000000    -2.482360    0.000000
+H    -2.149787    -1.241180    0.000000
+H    -2.149787    1.241180    0.000000
 END
+
+
+
+CHARGE 0 0
+
+
+
+
+! unrestricted/restricted
+
+
+XC
+    GGA PBE
+END
+
 
 
 BASIS
-TYPE TZP
-CORE SMALL
+    TYPE TZP
+    CORE SMALL
 END
 
-RELATIVISTIC scalar zora
+! symmetry
 
-units
-length angstrom
-END
 
-symmetry
-ATOMS cartesian
- B                 -1.71095261    0.80599433    0.46249870
- B                 -1.73469494    0.00000000   -0.99904111
- B                 -0.77048062    0.00000000   -2.30912674
- B                  0.77048062    0.00000000   -2.30912674
- B                  1.73469494    0.00000000   -0.99904111
- B                  1.71095261   -0.80599433    0.46249870
- B                 -1.71095261   -0.80599433    0.46249870
- B                  1.71095261    0.80599433    0.46249870
- La                 0.00000000   -2.09917176   -0.90645759
- La                -0.00000000    2.09917176   -0.90645759
- La                 0.00000000    0.00000000    2.22288383
-END
 
-!unrestricted
-CHARGE -1
 
-!occupations smearq=0.001
-
-GEOMETRY
-    optim all
-    iterations 50
-    step rad=0.15 angle=10.0
-    hessupd BFGS
-    converge e=1.0e-4 grad=1.0e-4 rad=1.0e-2 angle=0.5
-END
-
-SAVE  TAPE21
-
-AnalyticalFreq
-MAX_CPKS_ITERATIONS 500
-End
 
 SCF
-iterations 100
-converge 1.0e-6 1.0e-6
-mixing 0.2
-lshift 0.0
-diis n=500 ok=0.00001 cyc=500 cx=5.0 cxx=10.0
+    iterations 100
+    converge 1.0e-6 1.0e-6
+    mixing 0.2
+    lshift 0.0
+    diis n=500 ok=0.00001 cyc=500 cx=5.0 cxx=10.0
 END
+
+
+
+
+
+
+
+SAVE  TAPE21
 
 A1FIT 10.0
 
 end input
-eor
 
+
+EOF
 

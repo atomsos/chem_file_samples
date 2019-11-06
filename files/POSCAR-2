@@ -1,0 +1,27 @@
+        Properties=species:S:1:pos:R:3 pbc="F F F";;;;;
+1.00000
+ 8.599148  0.000000  0.000000 
+ 0.000000  9.929440  0.000000 
+ 0.000000  0.000000  5.000000 
+C H
+6 6
+Selective Dynamics
+Cartesian
+ 4.299574   6.359968   0.000000  True  True  True
+ 5.507894   5.662344   0.000000  True  True  True
+ 5.507894   4.267096   0.000000  True  True  True
+ 4.299574   3.569472   0.000000  True  True  True
+ 3.091254   4.267096   0.000000  True  True  True
+ 3.091254   5.662344   0.000000  True  True  True
+ 4.299574   7.447080   0.000000  True  True  True
+ 6.449361   6.205900   0.000000  True  True  True
+ 6.449361   3.723540   0.000000  True  True  True
+ 4.299574   2.482360   0.000000  True  True  True
+ 2.149787   3.723540   0.000000  True  True  True
+ 2.149787   6.205900   0.000000  True  True  True
+
+
+
+
+
+
